@@ -1,4 +1,7 @@
+puts "==== GPK60-46W ===="
+
 require "via"
+require "consumer_key"
 
 kbd = Keyboard.new
 
